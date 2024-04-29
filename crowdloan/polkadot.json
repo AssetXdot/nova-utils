@@ -8,7 +8,7 @@
     "icon": "https://raw.githubusercontent.com/novasamatech/nova-utils/master/icons/chains/gradient/Acala.svg",
     "rewardRate": 10,
     "customFlow": "Acala",
-    "movedToParaId": "3336"
+    "movedToParaId": "3336" 
   },
   {
     "paraid": "2004",
