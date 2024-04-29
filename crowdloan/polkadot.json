@@ -1,5 +1,24 @@
 [
   {
+    "paraid": "888",
+    "name": "Asset X",
+    "token": "ASX",
+    "description": "A DEX for the Polkadot Asset Hub",
+    "website": "https://asset-x.io/",
+    "icon": "https://raw.githubusercontent.com/novasamatech/nova-utils/master/icons/chains/gradient/ASX.svg",
+    "customFlow": "AssetX",
+    "extras": {
+      "Twitter Link": "https://twitter.com/DOTAssetX",
+      "Telegram Link": "https://t.me/DotAssetX",
+      "Discord Link": "https://discord.gg/qaJUh7mAxH",
+      "Medium Link": "https://medium.com/@dotassetx",
+      "Github Link": "https://github.com/AssetXdot",
+      "Category": "asset",
+      "Network": "assethub-polkadot",
+      "Description (zh)": "Polkadot 资产中心的 DEX"
+    }
+  },
+  {
     "paraid": "2000",
     "name": "Acala",
     "token": "ACA",
@@ -8,7 +27,7 @@
     "icon": "https://raw.githubusercontent.com/novasamatech/nova-utils/master/icons/chains/gradient/Acala.svg",
     "rewardRate": 10,
     "customFlow": "Acala",
-    "movedToParaId": "3336" 
+    "movedToParaId": "3336"
   },
   {
     "paraid": "2004",
